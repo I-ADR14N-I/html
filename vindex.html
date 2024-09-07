@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>CSV to HTML Table</title>
-    <meta name="author" content="Derek Eder">
-    <meta content="Display any CSV file as a searchable, filterable, pretty HTML table">
+    <title>70s Vinyl Collection Table</title>
+    <meta name="author" content="ADR14N">
+    <meta content="Lots of Vinyl vibes">
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
@@ -19,14 +19,17 @@
     <div class="container-fluid">
         <main class="row">
             <div class="col">
-                <h1>80s Compilation Vinyl Collection Searchable Catalogue</h1>
+                <h1>70s Compilation Vinyls Collection</h1>
+
+           <p> </p></p>
+
+                <div id="table-container"></div>
             </div>
         </main>
         <footer class="row">
             <div class="col">
                 <hr>
-                <p class="text-right"><a>80s Compliation Vinyl Table</a>
-                    </p>
+                <p class="text-right"><a href="https://i-adr14n-i.github.io/html/pindex.html">80s Collection List</a></a></p>
             </div>
         </footer>
     </div>
@@ -45,7 +48,7 @@
         }
 
         CsvToHtmlTable.init({
-            csv_path: "data/CompilationVinyl.csv",
+            csv_path: "data/CompilationVinyl70s.csv",
             element: "table-container",
             allow_download: true,
             csv_options: {
