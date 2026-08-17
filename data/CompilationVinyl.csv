@@ -35,6 +35,24 @@ Album,Artist,Song,Year
 1980 The Summer,Pat Benatar,We Live For Love,80
 1980 The Summer,The Motels,Whose Problem?,80
 1980 The Summer,AC/DC,You Shook Me All Night Long,80
+Gone Troppo,Joe Dolce Music Theatre,Shaddap You Face,80
+Gone Troppo,Kelly Marie,Feels Like I'm In Love,80
+Gone Troppo,Carly Simon,Jesse,80
+Gone Troppo,The Romantics,What I Like About You,80
+Gone Troppo,Skatt Bros.,Life At The Outpost,80
+Gone Troppo,Norman Gunston,Kiss Army,80
+Gone Troppo,Mondo Rock,State Of The Heart,80
+Gone Troppo,Mi-Sex,Space Race,80
+Gone Troppo,Sharon O'Neill,Words,80
+Gone Troppo,Monty Python,I Like Chinese,80
+Gone Troppo,XTC,Generals And Majors,80
+Gone Troppo,Jona Lewie,You'll Always Find Me In The Kitchen,80
+Gone Troppo,Lipps Inc.,Funkytown,80
+Gone Troppo,Cold Chisel,My Baby,80
+Gone Troppo,MEO 245,Lady Love,80
+Gone Troppo,Sparks,When I'm With You,80
+Gone Troppo,Robert Palmer,Johnny And Mary,80
+Gone Troppo,Jo Jo Zep & The Falcons,I Will Return,80
 Red Alert,Elton John,Are You Ready For Love,80
 Red Alert,France Joli,Come To Me,80
 Red Alert,Festival,Don't Cry For Me Argentina,80
@@ -51,6 +69,26 @@ Red Alert,Silicon Teens,Red River Rock,80
 Red Alert,Lipps Inc,Rock It,80
 Red Alert,Con Funk Shun,Spirit Of Love,80
 Red Alert,Skatt Bros,Walk The Night,80
+Squeezed Out,Major Matchbox,Rockabilly Rebel,80
+Squeezed Out,Alan O'Day,Skinny Girls,80
+Squeezed Out,Queen,Crazy Little Thing Called Love,80
+Squeezed Out,The Angels,No Secrets,80
+Squeezed Out,Linda Ronstadt,Hurt So Bad,80
+Squeezed Out,Godley And Creme,An Englishman In New York,80
+Squeezed Out,Peter Gabriel,Games Without Frontiers,80
+Squeezed Out,The Aliens,Follow That Girl,80
+Squeezed Out,Jon English,Carmilla,80
+Squeezed Out,Chris Rea,Tennis,80
+Squeezed Out,Split Enz,I Hope I Never,80
+Squeezed Out,Mi-Sex,People,80
+Squeezed Out,Bette Midler,My Knight In Black Leather,80
+Squeezed Out,The Veterans,There Ain't No Age For Rock 'N' Roll,80
+Squeezed Out,The Reels,Pre-Fab Heart,80
+Squeezed Out,The Hitmen,I Want You,80
+Squeezed Out,Christie Allen,Magic Rhythm,80
+Squeezed Out,Jo Jo Zep & The Falcons,All I Wanna Do,80
+Squeezed Out,K.C. & The Sunshine Band,Please Don't Go,80
+Squeezed Out,Mental As Anything,Come Around,80
 Starcall Presents,The Reels,After The News,80
 Starcall Presents,Fiddler's Dram,Day Trip To Bangor,80
 Starcall Presents,The Numbers,Five Letter Word,80
@@ -1582,24 +1620,6 @@ Beat the Heat Summer 1991,1927,The Other Side,91
 Beat the Heat Summer 1991,Seiko,The Right Combination,91
 Beat the Heat Summer 1991,Prince,Thieves In The Temple,91
 Beat the Heat Summer 1991,New Kids On The Block,Tonight,91
-Take 40 Australia Vol 1,Noiseworks,Hot Chilli Woman,91
-Take 40 Australia Vol 1,Alice Cooper,Hey Stoopid,91
-Take 40 Australia Vol 1,Transvision Vamp,If Looks Could Kill,91
-Take 40 Australia Vol 1,Kylie Minogue Featuring DNA,Shocked,91
-Take 40 Australia Vol 1,C&C Music Factory,Thing That Make You Go Hmmm,91
-Take 40 Australia Vol 1,Kate Ceberano,Every Little Thing,91
-Take 40 Australia Vol 1,Yothu Yindi,Treaty (Filthy Lucre Remix),91
-Take 40 Australia Vol 1,The KLF,Last Train To Trancentral,91
-Take 40 Australia Vol 1,Push Push,Trippin',91
-Take 40 Australia Vol 1,Roxus,Bad Boys,91
-Take 40 Australia Vol 1,Jimmy Barnes,Love Is Enough,91
-Take 40 Australia Vol 1,Deborah Conway,It's Only The Beginning,91
-Take 40 Australia Vol 1,Daryl Braithwaite,Higher Than Hope,91
-Take 40 Australia Vol 1,Jo Beth Taylor,99 Reasons,91
-Take 40 Australia Vol 1,Sound Unlimited Posse,Unity,91
-Take 40 Australia Vol 1,Sheena Easton,What Comes Naturally,91
-Take 40 Australia Vol 1,Heavy D And The Boyz,Now That We Found Love,91
-Take 40 Australia Vol 1,De La Soul,Ring Ring Ring (Ha Ha Hey),91
 Smash Hits 1991,Marky Mark & The Funky Bunch,Good Vibrations,91
 Smash Hits 1991,Kenny Thomas,Thinking About Your Love,91
 Smash Hits 1991,Chesney Hawkes,The One And Only,91
@@ -1640,3 +1660,21 @@ Smash Hits 1991,Monie Love Vs Adeva,Ring My Bell,91
 Smash Hits 1991,A Tribe Called Quest,Can I Kick It?,91
 Smash Hits 1991,New Kids On The Block,Call It What You Want,91
 Smash Hits 1991,Seal,Crazy,91
+Take 40 Australia Vol 1,Noiseworks,Hot Chilli Woman,91
+Take 40 Australia Vol 1,Alice Cooper,Hey Stoopid,91
+Take 40 Australia Vol 1,Transvision Vamp,If Looks Could Kill,91
+Take 40 Australia Vol 1,Kylie Minogue Featuring DNA,Shocked,91
+Take 40 Australia Vol 1,C&C Music Factory,Thing That Make You Go Hmmm,91
+Take 40 Australia Vol 1,Kate Ceberano,Every Little Thing,91
+Take 40 Australia Vol 1,Yothu Yindi,Treaty (Filthy Lucre Remix),91
+Take 40 Australia Vol 1,The KLF,Last Train To Trancentral,91
+Take 40 Australia Vol 1,Push Push,Trippin',91
+Take 40 Australia Vol 1,Roxus,Bad Boys,91
+Take 40 Australia Vol 1,Jimmy Barnes,Love Is Enough,91
+Take 40 Australia Vol 1,Deborah Conway,It's Only The Beginning,91
+Take 40 Australia Vol 1,Daryl Braithwaite,Higher Than Hope,91
+Take 40 Australia Vol 1,Jo Beth Taylor,99 Reasons,91
+Take 40 Australia Vol 1,Sound Unlimited Posse,Unity,91
+Take 40 Australia Vol 1,Sheena Easton,What Comes Naturally,91
+Take 40 Australia Vol 1,Heavy D And The Boyz,Now That We Found Love,91
+Take 40 Australia Vol 1,De La Soul,Ring Ring Ring (Ha Ha Hey),91
